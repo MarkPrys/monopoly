@@ -56,7 +56,7 @@ renderer.domElement.addEventListener('click', (event) => {
 
 // Завантаження моделі та додавання анотацій
 const loader = new GLTFLoader();
-loader.load('./model.glb', (gltf) => {
+loader.load('/bingen.glb', (gltf) => {
   const model = gltf.scene;
   scene.add(model);
   console.log('✅ Model uploaded');

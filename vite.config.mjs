@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/KuLaTainment/bingen/',
+  base: '/monopoly/',
   assetsInclude: ['**/*.glb']
 });
