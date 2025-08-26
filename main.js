@@ -65,7 +65,7 @@ loader.load('/bingen.glb', (gltf) => {
     {
       position: new THREE.Vector3(-121.81182, 40.95932, -76.80483),
       icon: './img/tower.png',
-      link: 'https://www.bingen.de/kultur/tor-zum-uneso-welterbe/der-binger-maeuseturm',
+      link: 'https://www.kuladig.de/Objektansicht/O-102026-20140903-3',
       title: 'Der Binger Mäuseturm'
     },
   ];
