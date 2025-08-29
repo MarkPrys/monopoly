@@ -14,7 +14,6 @@ img.annotation-icon {
     transform: translate(-50%, -50%);
     cursor: pointer;
     pointer-events: auto;
-    filter: invert(1);
 }
 
 /* Модальне вікно */
